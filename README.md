@@ -1,6 +1,6 @@
 Discord Bot Features
 
-- Number guessing gmae (-nguess 45)
+- Number guessing game (-nguess 45)
 - Rock, paper, scissors game (-rps rock)
 - Coin flip (-coinflip)
 - Dice roll (-rolldice)
